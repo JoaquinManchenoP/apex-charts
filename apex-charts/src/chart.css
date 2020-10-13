@@ -1,0 +1,15 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+}
+.userInput {
+  height: 18px;
+  width: 200px;
+}
+.searchBar {
+  text-align: center;
+  padding: 20px;
+}
+.chart {
+  padding-left: 200px;
+}
